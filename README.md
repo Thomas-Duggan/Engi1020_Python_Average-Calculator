@@ -1,3 +1,4 @@
+# [Depricated; New Version Here](https://github.com/Thomas-Duggan/Engi1020_Python_Promotability-Calculator-V2/blob/main/)
 ## Purpose
 
 Requests inputs for all courses that are prerequisite for Engineering One promotability
